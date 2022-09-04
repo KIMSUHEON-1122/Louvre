@@ -1,0 +1,12 @@
+.icon{
+    fill: black;
+}
+.icon:hover{
+    fill: #959090cc;
+ 
+    color : #959090cc
+}
+.icon:hover >p{
+    
+    color: #959090cc;
+}
