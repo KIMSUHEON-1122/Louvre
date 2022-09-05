@@ -2,7 +2,7 @@
 viewBox="0 0 512 512"
 width = "90"
 height = "90"
->
+class = "svg">
 <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="svg.css" type="text/css"/>
 <!--! Font Awesome Pro 6.2.0 by @fontawesome - 
 https://fontawesome.com License - https://fontawesome.com/license 
