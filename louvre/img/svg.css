@@ -10,3 +10,8 @@
     
     color: #959090cc;
 }
+.svg:hover .icon{
+    fill: #959090cc;
+ 
+    color : #959090cc
+}
